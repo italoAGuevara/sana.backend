@@ -9,6 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{29138C07-2
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{6C10581B-6E62-49AF-9ECA-20D7AF6DC89B}"
 	ProjectSection(SolutionItems) = preProject
+		Database_scheme\create_schemas.sql = Database_scheme\create_schemas.sql
 		README.md = README.md
 	EndProjectSection
 EndProject
